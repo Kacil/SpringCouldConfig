@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo-service-hi
+server:
+  port: 9871
+
+hello: Welcome to demo-service-hi-test
